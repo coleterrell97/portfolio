@@ -11,3 +11,6 @@ Example: input = [1,1,1,2,3,3] -- output = 4
 
 JS/smallernums.js: easy difficulty leetcode project. Function is provided a 1-d array of numbers. Purpose of this function is to find the number of numbers in the array that are smaller than the current number.
 Example: input = [8, 1, 1, 2, 4] -- output = [4, 0, 0, 2, 3]
+
+JS/diagonalsort.js: medium difficulty leetcode project. Function is provided an mxn array of numbers. Purpose of this function is to sort the diagonals of the array in ascending order.
+Example: input = [[3,3,1,1],[2,2,1,2],[1,1,1,2]] -- output = [[1,1,1,1],[1,2,2,2],[1,2,3,3]]
