@@ -17,3 +17,5 @@ Example: input = [[3,3,1,1],[2,2,1,2],[1,1,1,2]] -- output = [[1,1,1,1],[1,2,2,2
 
 JS/suggestions.js: medium difficulty leetcode project. Function is provided an array of products and a search word. Purpose of this function is to show the top 3 (ordered lexicographically) search results for each entered character of the search word.
 Example: products = ["mobile","mouse","moneypot","monitor","mousepad"], searchWord = "mouse" -- output = [[ 'mobile', 'moneypot', 'monitor' ],[ 'mobile', 'moneypot', 'monitor' ],[ 'mouse', 'mousepad' ],[ 'mouse', 'mousepad' ],[ 'mouse', 'mousepad' ]]
+
+WebDevProjects/SudokuSolver: Webpage designed using HTML, CSS, and Javascript that implements a sudoku game with a selection of prebuilt games that populate the board at random. Plans to develop an auto-solver for this site.
