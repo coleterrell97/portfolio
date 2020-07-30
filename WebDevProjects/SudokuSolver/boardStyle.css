@@ -1,0 +1,52 @@
+td{
+  height: 50px;
+  width: 50px;
+  text-align: center;
+  /*padding: 100px;*/
+  border: 2px solid black;
+  font-size: 30px
+}
+
+h1{
+  height: 25px;
+  text-align: center
+}
+
+.topRight{
+  border-top: 5px solid black;
+  border-right: 5px solid black
+}
+.topCenter{
+  border-top: 5px solid black
+}
+.topLeft{
+  border-top: 5px solid black;
+  border-left: 5px solid black
+}
+
+.midRight{
+  border-right: 5px solid black
+}
+
+.midLeft{
+  border-left: 5px solid black
+}
+
+.botRight{
+  border-bottom: 5px solid black;
+  border-right: 5px solid black
+}
+.botCenter{
+  border-bottom: 5px solid black
+}
+.botLeft{
+  border-bottom: 5px solid black;
+  border-left: 5px solid black
+}
+
+.button-container{
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding-bottom: 15px;
+}
