@@ -19,3 +19,5 @@ JS/suggestions.js: medium difficulty leetcode project. Function is provided an a
 Example: products = ["mobile","mouse","moneypot","monitor","mousepad"], searchWord = "mouse" -- output = [[ 'mobile', 'moneypot', 'monitor' ],[ 'mobile', 'moneypot', 'monitor' ],[ 'mouse', 'mousepad' ],[ 'mouse', 'mousepad' ],[ 'mouse', 'mousepad' ]]
 
 WebDevProjects/SudokuSolver: Webpage designed using HTML, CSS, and Javascript that implements a sudoku game with a selection of prebuilt games that populate the board at random. Plans to develop an auto-solver for this site.
+
+Python/DefangAddress.py: easy difficulty leetcode project that "defangs" a given IP address; that is, it swaps out each "." in the address for "[.]"
